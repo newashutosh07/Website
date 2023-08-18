@@ -1,0 +1,45 @@
+/* 
+.Eren{
+    color: #ffd900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Images/sEren.jpg);
+    height: 200px;
+    background-size: cover;
+}
+
+.Eren p{
+    font-family: 'Montserrat', sans-serif;sans-serif;
+    color: #fff;
+    text-shadow: 2px 4px 4px rgba(0, 0, 0, 0.6);
+}
+
+.Mikasa{
+    color: #ffd900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Images/sMikasa.jpg);
+    height: 200px;
+    background-size: cover;
+}
+
+.Mikasa p{
+    font-family: 'Montserrat', sans-serif;sans-serif;
+    color: #fff;
+    text-shadow: 2px 4px 4px rgba(0, 0, 0, 0.6);
+}
+
+.Armin{
+    color: #ffd900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Images/sarmin);
+    height: 200px;
+    background-size: cover;
+}
+
+.Armin p{
+    font-family: 'Montserrat', sans-serif;sans-serif;
+    color: #fff;
+    text-shadow: 2px 4px 4px rgba(0, 0, 0, 0.6);
+}
+ */
+
+ /* <!----------All Characters---------> */
